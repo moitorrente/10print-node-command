@@ -1,0 +1,14 @@
+{
+  "name": "10print-node-command",
+  "version": "1.0.0",
+  "description": "10print command line made with node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "10print"
+  ],
+  "author": "Moisés Torrente",
+  "license": "MIT"
+}
